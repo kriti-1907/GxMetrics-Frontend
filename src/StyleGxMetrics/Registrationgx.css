@@ -1,0 +1,227 @@
+/* Add your own styling for the form container */
+/* input{
+    margin-bottom: 16px !important;
+    display: block;
+    padding: 12px;
+    width: 100%;
+    border-radius: var(--borderRadiusSmall);
+    font-family: inherit !important;
+    font-size: 100% !important;
+    line-height: 1.15 !important;
+    margin: 0 !important;
+    background: #EFEFEF;;
+    color: #000000;
+    border: 0px solid #e2e2e2;
+    overflow: visible;
+  } */
+  
+  .customer-form{
+   
+        padding: 20px;
+        margin: auto auto;
+        max-width: 680px;
+        width: 100%;
+        display: block;
+    
+  }
+   label {
+    display: block!important;
+    margin-bottom: 8px;
+    font-family: emoji;
+    color: #121317;
+    text-align: left;
+    height: 21px;
+}
+.tacboxs label {
+    text-transform: initial;
+    vertical-align: middle;
+    padding: 0!important;
+}
+.tacboxs {
+    display: flex;
+    padding-bottom: 10px;
+}
+ 
+  .checkbox-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 16px;
+  }
+  
+  .tacboxs input.input-checkbox {
+    margin-bottom: 10px!important;
+    vertical-align: middle;
+    text-align: center;
+    width: fit-content;
+    margin-right: 10px !important;
+}
+
+.customer__form .button--submit {
+    
+    padding-left: 24px;
+    padding-right: 24px;
+    margin-right: 24px !important;
+}
+.button--primary {
+    border: 1px solid;
+}
+.button{
+    text-align: center;
+    text-decoration: none;
+    font-size: 14px !important;
+    border-width: 0px !important;
+    border-style: solid;
+    border-color: transparent;
+    border-radius: var(--borderRadiusSmall);
+    display: inline-block;
+    justify-content: left !important;
+    max-width: 35%;
+    max-height: 50%;
+    transition: all 0.15s;
+    animation-duration: 1s;
+    padding: 9px!important;
+    margin-left: -65% !important;
+}
+.button--primary__filled {
+    background-color: #00294d;
+    color: #ffffff;
+}
+
+
+  .Outer{
+    margin: 0;
+    line-height: 3rem;
+    font-weight: 900!important;
+    background-color: #00294d;
+    margin-left: 0%!important;
+    text-align:center;
+    color: #ffffff!important;
+    margin-top: 0%!important;
+    font-family: "Playfair Display", serif;
+    font-size: 26px;
+}
+  
+
+  .tacboxs a{
+    text-decoration: underline !important;
+    color: #000000 !important;
+    font-size: 14px !important;
+    font:14px Montserrat, sans-serif;
+  }
+  .already-member{
+    font-size: 13px;
+    cursor: pointer;
+    font-family: "Montserrat", sans-serif;
+    text-align: left;
+    margin-top: -7px;
+    margin-left: 1rem;
+    color: #00294d;
+    font-weight: 400!important;
+}
+
+  .formbody{
+    background-color: #f4f2ee;
+  }
+  .buttonn{
+    text-align: center;
+    text-decoration: none;
+    font-size: 14px !important;
+    border-width: 0px !important;
+    border-style: solid;
+    border-color: transparent;
+    border-radius: var(--borderRadiusSmall);
+    display: inline-block;
+    justify-content: left !important;
+    max-width: 11%;
+    max-height: 55%!important;
+    transition: all 0.15s;
+    animation-duration: 1s;
+    padding: 9px!important;
+    margin-left: -88% !important;
+}
+.reset-button{
+  background-color: #8c5a4f;
+  color: #ffffff;
+  text-align: center;
+  text-decoration: none;
+  font-size: 14px;
+  transition: all 0.15s;
+    animation-duration: 1s;
+    width: 100%;
+    padding: 9px!important;
+    border: none;
+    margin-top: 2%;
+    letter-spacing: 0.04rem!important
+}
+.password-message{
+  font-size: 12px;
+  color: #8c5a4f;
+  margin-top: -10px;
+  margin-bottom: 16px;
+  font-family: "Verdana",sans-serif;
+  margin-left: 18px;
+  font-weight: 600!important;
+}
+.passwordbutton{
+  background-color: #8c5a4f;
+  color: #ffffff;
+  text-align: center;
+  text-decoration: none;
+  font-size: 14px;
+  transition: all 0.15s;
+    animation-duration: 1s;
+    width: 100%;
+    padding: 9px!important;
+    border: none;
+    margin-top: 2%;
+    letter-spacing: 0.04rem!important
+}
+.forgot-pass{
+  border:none;
+   background-color:#f4f2ee;
+   text-decoration: none;
+    font-size: 10px;
+    cursor: pointer;
+    font-family: "Montserrat", sans-serif !important;
+    text-align: left;
+    margin-left: -83%;
+
+}
+.error{
+  color: red;
+    text-align: left;
+    font-size: 13px;
+}
+.wrapper-register{
+  height: 900px;
+  width: 400px;
+   
+    background: #fff;
+    box-shadow: 0 8px 32px rgba(31,38,135, .37);
+    border: 1px solid #fff;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.wrapper-register h2{
+  font-size: 2em;
+  color: #000!important;
+  text-align: center;
+  font-weight: 900;
+  margin-bottom: 3rem;
+  font-family: ui-monospace;
+  background-color: #fff;
+  margin-top: -4rem;}
+  .dob-input input{
+    background:white;
+        margin-left: -30rem !important;
+            font-size: 14px !important;
+            margin-top: -8px !important;
+            border: 0px solid #e2e2e2;
+  }
+  .image-input input{
+    font-size: 14px;
+    margin-left: -60px;
+    margin-bottom: 1rem;
+  }

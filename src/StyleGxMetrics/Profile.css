@@ -1,0 +1,110 @@
+.profile-card{
+    width: 30%;
+}
+.profile{
+    margin-top: 3rem;
+    margin-bottom: 8rem;
+    display: flex;
+}
+.profile-img img{
+    border-radius: 50%;
+    width: 104px;
+}
+.profile-img p{
+    margin-top: 11px;
+    margin-bottom: 1rem;
+    font-size: 17px;
+    font-family: ui-monospace;
+}
+.buttons-modify button{
+    border: 0px;
+    outline: none;
+    background-color: #fff;
+    
+    width: 252px;
+    margin-left: 0rem;
+    width: 252px;
+    text-align: left;
+    margin-top: 1rem;
+    font-size: 20px;
+    font-family: ui-monospace;
+}
+.buttons-modify hr{
+    margin-left: 2rem;
+}
+.account{
+    width: 55%;
+    margin-left: 7rem;
+}
+ h2{
+    font-family: ui-monospace;
+    font-size: 40px;
+
+}
+.general-info-heading{
+    background: #eee;
+    text-align: left;
+    padding: 1px 0px 1px 0px;
+    margin-top: 2rem;
+
+}
+.general-info-heading p{
+    margin-left: 1rem;
+  margin-top: 1rem;
+    font-family: serif;
+    font-weight: 700;
+    font-size: 20px;
+}
+.heading{
+    margin-top: 0.5rem;
+    color: #878282;
+    font-family: ui-monospace;
+}
+.info-detail{
+    margin-top: -1rem;
+    font-family: auto;
+    font-size: 17px;
+}
+.name{
+    margin-left: 1rem;
+    margin-top: 2rem;
+    text-align: left;
+}
+.empId{
+    text-align: left;
+    margin-top: -9.25%;
+    margin-left: 33rem;
+}
+.desig{
+    margin-left: 1rem;
+    margin-top: 2rem;
+    text-align: left;
+}
+.account button{
+    margin-top: 2rem;
+    width: 273px;
+}
+.password{
+    text-align: left;
+    margin-top: 7rem;
+    margin-left: 1rem;
+}
+.password p{
+    margin-top: 0.5rem;
+    color: #000;
+    font-size: 18px;
+    font-family: ui-monospace;
+}
+.confirm-password p{
+    margin-top: 0.5rem;
+    color: #000;
+    font-size: 18px;
+    font-family: ui-monospace;
+}
+.confirm-password{
+    text-align: left;
+    margin-top: 3rem;
+    margin-left: 1rem;
+    margin-bottom: 1rem;
+
+}

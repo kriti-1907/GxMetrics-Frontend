@@ -1,0 +1,85 @@
+.employee-image{
+   
+    margin-top: 4rem;
+    margin-left: 2rem;
+    width: 67%;
+}
+.employee-data{
+    margin-bottom: 10rem;
+    width: 90%;
+    margin-left: 0rem;
+    /* border: 1px solid; */
+    margin-top: 5rem;
+    height: 407px;
+    display: flex;
+
+}
+.employee-image h2{
+    margin-left: 1rem !important;
+    color: #000!important;
+    font-size: 32px;
+    font-family: math;
+    margin-top: 2rem!important;
+    margin-bottom: 3rem;
+    
+}
+.change-pass{
+    width: 180px;
+    font-size: 20px;
+    margin-bottom: 2rem;
+    margin-top: 1rem;
+    margin-left: -3.5rem;
+    background-color: #fff;
+    border: none !important;
+    outline: none !important;
+}
+.update-details{
+    width: 180px;
+    font-size: 20px;
+    margin-bottom: 2rem;
+    margin-left: -4.5rem;
+    margin-top: 1rem;
+    background-color: #fff;
+    border: none !important;
+}
+.delete-account{
+    width: 180px;
+    font-size: 20px;
+    margin-bottom: 2rem;
+    margin-top: 1rem;
+    margin-left: -3.5rem;
+    background-color: #fff;
+    border: none !important;
+    outline: none !important;
+}
+.personal-info{
+    margin-top: -3rem;
+    margin-left: -3.5rem!important;
+    width: 180px;
+    font-size: 20px;
+    margin-bottom: 2rem;
+    margin-left: -1rem;
+    background-color: #fff;
+    border: none !important;
+    outline: none !important;
+}
+
+.modify-buttons hr{
+    width: 231%;
+    margin-left: -87%!important;
+    border-top: var(--bs-border-width) solid!important;
+    --bs-border-width: 1px !important;
+
+}
+.profile-image .p{
+
+}
+.modify-buttons{
+    margin-left: -10rem;
+    margin-top: 7rem;
+    /* margin-bottom: 3rem; */
+    width: 22%;
+    padding: 49px;
+    /* border: 2px solid #000; */
+    border-right: 1px solid #000;
+}

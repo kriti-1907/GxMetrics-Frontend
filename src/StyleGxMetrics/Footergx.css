@@ -1,0 +1,16 @@
+
+footer {
+    background-color: #f3ede8;
+    color: #343434;
+    font-size: 35px;
+    padding: 60px 0px;
+}
+
+.footer__block {
+    padding: 16px 16px;
+}
+.footer__text .p {
+    line-height: 1.5em !important;
+    font-size: 0.9em !important;
+    font-weight:normal!important;
+}

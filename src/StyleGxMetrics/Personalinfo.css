@@ -1,0 +1,15 @@
+.details{
+    display: flex;
+    justify-content: space-around;
+
+}
+.user-info{
+    margin-left: 5rem;
+    text-align: left;
+    margin-bottom: 3rem;
+    margin-top: -7rem;
+}
+.details1{  display: flex;
+    justify-content: space-around;
+
+}
